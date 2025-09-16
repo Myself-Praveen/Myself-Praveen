@@ -3,10 +3,6 @@
 <h1 align="center" style="color:#ffffff;">Hi 👋, I'm Praveen Mishra</h1>
 <h3 align="center" style="color:#ffffff;">A Sophomore at IIITDM Kurnool | Backend Developer & AI/ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://corizo.in/wp-content/uploads/2024/11/UI-Developer.gif" width="800" alt="hero banner" />
-</p>
-
 ---
 
 ### 🔖 <span style="color:#ffffff;">About Me</span>
@@ -88,10 +84,7 @@
 
 ---
 
-
-
 ### 🎮 <span style="color:#ffffff;">Fun Section</span>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Myself-Praveen/Myself-Praveen/output/snake.svg" alt="snake" />
 </p>
-
