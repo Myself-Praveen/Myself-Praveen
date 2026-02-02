@@ -1,90 +1,160 @@
-<div style="background-color:#1e1e1e; padding:30px; border-radius:10px;">
-
-<h1 align="center" style="color:#ffffff;">Hi 👋, I'm Praveen Mishra</h1>
-<h3 align="center" style="color:#ffffff;">A Sophomore at IIITDM Kurnool | Backend Developer & AI/ML Enthusiast</h3>
-
----
-
-### 🔖 <span style="color:#ffffff;">About Me</span>
-<p align="left" style="color:#ffffff;">
-🎓 BTech 2nd year CSE student at IIIT Kurnool (IIITK) <br>
-💡 Passionate about building projects that solve real-world problems <br>
-🚀 Exploring new tools, frameworks & tech challenges <br>
-🤖 Web development, AI/ML & open source enthusiast <br>
-🧠 Strong in problem-solving, communication & collaboration
-</p>
-
----
-
-### 🛠️ <span style="color:#ffffff;">Skills</span>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="Tailwind" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="Anaconda" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
-
----
-
-### 🌱 <span style="color:#ffffff;">Currently Learning</span>
-<p align="center" style="color:#ffffff;">
-- Data Structures & Algorithms <br>
-- Generative AI & Machine Learning Models <br>
-- Web Development
-</p>
-
----
-
-### 🚀 <span style="color:#ffffff;">Projects</span>
+<!-- Banner -->
 <div align="center">
-  <a href="#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Blind_Stick_AI-Project-blue?style=for-the-badge&logo=appveyor" alt="Blind Stick AI" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Praveen%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</div>
+
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=650&lines=Hi+I'm+Praveen+Mishra;Machine+Learning+%26+NLP+Enthusiast;Backend+Developer;IIITDM+Kurnool+CSE+Sophomore" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Myself-Praveen&label=Profile%20Views&style=flat-square&color=667eea"/>
+</p>
+
+---
+
+### 🎯 Current Focus
+<p align="center">
+  <b>Machine Learning • Natural Language Processing • Scalable Backend Systems</b>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 **B.Tech CSE (2nd Year)** at **IIITDM Kurnool**
+- 🤖 Strong interest in **Machine Learning & NLP**
+- ⚙️ Backend developer focused on **scalable REST APIs**
+- 🧠 Competitive programmer (Codeforces **Pupil**, CodeChef **1440**)
+- 🚀 Building **real-world, impact-driven ML systems**
+
+---
+
+## 🧠 Technical Skills
+
+### ⚡ Programming & Core
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+
+### 🤖 Machine Learning / NLP
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TF--IDF-6A5ACD?style=for-the-badge"/>
+</p>
+
+
+### ⚙️ Backend & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=github-actions"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+</p>
+
+
+---
+
+## 🚀 Featured Projects
+
+### 📰 Fake News Detection — NLP & ML
+> **End-to-end NLP classification pipeline**
+
+- TF-IDF–based feature extraction  
+- Logistic Regression & Naive Bayes classifiers  
+- Focus on preprocessing, evaluation, and generalization  
+
+🔗 **Repository:**  
+https://github.com/Myself-Praveen/Fake_news_detection
+
+---
+
+### 🧭 TrackBack — Backend System
+> **Production-style backend architecture**
+
+- Designed RESTful APIs  
+- Modular, scalable backend design  
+- Clean code & maintainability focus  
+
+🔗 **Repository:**  
+https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back
+
+---
+## 📅 Commit Activity
+
+<div align="center">
+  <img
+    src="https://ghchart.rshah.org/006400/Myself-Praveen"
+    alt="Praveen Mishra's GitHub Contribution Graph"
+    style="width:100%; max-width:900px;"
+  />
+</div>
+
+
+
+
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Myself-Praveen&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 ---
 
-### 📊 <span style="color:#ffffff;">GitHub Stats</span>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Myself-Praveen&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myself-Praveen&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
-
-### 🏆 <span style="color:#ffffff;">GitHub Trophies</span>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Myself-Praveen&theme=dracula&row=1" alt="GitHub Trophies" />
-</p>
+## 🏆 Achievements
+- ⭐ **Codeforces Pupil**
+- ⭐ **CodeChef Rating 1440 (Div-3)**
+- 🎓 **NPTEL Generative AI — Elite Silver (Top 5%)**
 
 ---
 
-### 📫 <span style="color:#ffffff;">Connect with Me</span>
+## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/praveen-mishra-947085313/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://x.com/Itz_Praveen_01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="52" height="40" alt="X" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.linkedin.com/in/praveen-mishra-947085313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:praveen104685@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Myself-Praveen">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-### 🎮 <span style="color:#ffffff;">Fun Section</span>
+<!-- Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Myself-Praveen/Myself-Praveen/output/snake.svg" alt="snake" />
+  <img 
+    src="https://raw.githubusercontent.com/Myself-Praveen/Myself-Praveen/output/snake.svg" 
+    alt="snake" 
+    style="width:100%; max-width:900px; height:auto;"
+  />
+</p>
+
+
+---
+
+<p align="center">
+  <i>“Strong fundamentals. Consistent learning. Real-world impact.”</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=500&lines=Thanks+for+visiting!;Always+learning+%26+building;Open+to+ML+Internships+🚀"/>
 </p>
