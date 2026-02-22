@@ -23,10 +23,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 **B.Tech CSE (2nd Year)** at **IIITDM Kurnool**
-- 🤖 Strong interest in **Machine Learning & NLP**
-- ⚙️ Backend developer focused on **scalable REST APIs**
+- 🤖 Passionate about building **intelligent ML & NLP systems**
+- ⚙️ Backend developer focused on **scalable RESTful architectures**
 - 🧠 Competitive programmer (Codeforces **Pupil**, CodeChef **1440**)
-- 🚀 Building **real-world, impact-driven ML systems**
+- 🚀 Dedicated to creating **real-world, impact-driven AI solutions**
 
 ---
 
@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-
 ### 🤖 Machine Learning / NLP
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
@@ -55,7 +54,6 @@
   <img src="https://img.shields.io/badge/TF--IDF-6A5ACD?style=for-the-badge"/>
 </p>
 
-
 ### ⚙️ Backend & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
@@ -67,34 +65,46 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
 </p>
 
-
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 CodeSage — AI-Powered Code Analysis Assistant
+> **LLM + RAG powered intelligent coding assistant**
+
+- Built a CLI-based AI assistant to analyze, explain, and optimize source code  
+- Implemented Retrieval-Augmented Generation (RAG) using LangChain + Ollama  
+- Reduced manual debugging & review time by ~30% across 50+ code files  
+
+🔗 **Repository:**  
+https://github.com/Myself-Praveen/CodeSage  
+
+---
+
 ### 📰 Fake News Detection — NLP & ML
-> **End-to-end NLP classification pipeline**
+> **End-to-end NLP text classification pipeline**
 
-- TF-IDF–based feature extraction  
-- Logistic Regression & Naive Bayes classifiers  
-- Focus on preprocessing, evaluation, and generalization  
+- Engineered TF-IDF features for structured text representation  
+- Trained Logistic Regression & Naive Bayes classifiers  
+- Focused on preprocessing, evaluation metrics, and model generalization  
 
 🔗 **Repository:**  
-https://github.com/Myself-Praveen/Fake_news_detection
+https://github.com/Myself-Praveen/Fake_news_detection  
 
 ---
 
-### 🧭 TrackBack — Backend System
-> **Production-style backend architecture**
+### 🧭 TrackBack — Scalable Backend System
+> **Production-style modular backend architecture**
 
-- Designed RESTful APIs  
-- Modular, scalable backend design  
-- Clean code & maintainability focus  
+- Designed RESTful APIs with structured routing & middleware  
+- Built scalable backend components following clean architecture principles  
+- Emphasized maintainability, version control, and collaborative workflows  
 
 🔗 **Repository:**  
-https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back
+https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back  
 
 ---
+
 ## 📅 Commit Activity
 
 <div align="center">
@@ -104,10 +114,6 @@ https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back
     style="width:100%; max-width:900px;"
   />
 </div>
-
-
-
-
 
 <br/>
 
@@ -147,7 +153,6 @@ https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back
     style="width:100%; max-width:900px; height:auto;"
   />
 </p>
-
 
 ---
 
