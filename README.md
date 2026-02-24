@@ -76,8 +76,9 @@
 - Implemented Retrieval-Augmented Generation (RAG) using LangChain + Ollama  
 - Reduced manual debugging & review time by ~30% across 50+ code files  
 
-🔗 **Repository:**  
-https://github.com/Myself-Praveen/Code_Sage
+🔗 Repository:  
+https://github.com/Myself-Praveen/Code_Sage  
+
 ---
 
 ### 📰 Fake News Detection — NLP & ML
@@ -87,7 +88,7 @@ https://github.com/Myself-Praveen/Code_Sage
 - Trained Logistic Regression & Naive Bayes classifiers  
 - Focused on preprocessing, evaluation metrics, and model generalization  
 
-🔗 **Repository:**  
+🔗 Repository:  
 https://github.com/Myself-Praveen/Fake_news_detection  
 
 ---
@@ -99,8 +100,8 @@ https://github.com/Myself-Praveen/Fake_news_detection
 - Built scalable backend components following clean architecture principles  
 - Emphasized maintainability, version control, and collaborative workflows  
 
-🔗 **Repository:**  
-https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back  
+🔗 Repository:  
+https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back   
 
 ---
 
