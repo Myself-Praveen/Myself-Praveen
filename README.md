@@ -77,8 +77,7 @@
 - Reduced manual debugging & review time by ~30% across 50+ code files  
 
 🔗 **Repository:**  
-https://github.com/Myself-Praveen/CodeSage  
-
+https://github.com/Myself-Praveen/Code_Sage
 ---
 
 ### 📰 Fake News Detection — NLP & ML
