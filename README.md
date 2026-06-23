@@ -5,7 +5,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=650&lines=Hi+I'm+Praveen+Mishra;Machine+Learning+%26+NLP+Enthusiast;Backend+Developer;IIITDM+Kurnool+CSE+Sophomore" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=700&lines=Hi+I'm+Praveen+Mishra;Full-Stack+Developer+%26+ML+Engineer;IIITDM+Kurnool+CSE+Pre-Final+Year" />
 </p>
 
 <p align="center">
@@ -16,16 +16,16 @@
 
 ### 🎯 Current Focus
 <p align="center">
-  <b>Machine Learning • Natural Language Processing • Scalable Backend Systems</b>
+  <b>Full-Stack Systems • Machine Learning & NLP</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **B.Tech CSE (2nd Year)** at **IIITDM Kurnool**
+- 🎓 **B.Tech CSE (Pre-Final Year)** at **IIITDM Kurnool** | CGPA: **8.00/10**
 - 🤖 Passionate about building **intelligent ML & NLP systems**
-- ⚙️ Backend developer focused on **scalable RESTful architectures**
-- 🧠 Competitive programmer (Codeforces **Pupil**, CodeChef **1440**)
+- 🌐 Full-stack developer with **React, FastAPI, WebSockets & MongoDB**
+- 🧠 Competitive programmer — CodeChef **1525** (Rank 414) | Codeforces **1265** (Pupil) | LeetCode **~1700**
 - 🚀 Dedicated to creating **real-world, impact-driven AI solutions**
 
 ---
@@ -44,64 +44,77 @@
 
 ### 🤖 Machine Learning / NLP
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=huggingface&logoColor=000"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TF--IDF-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
 </p>
 
-### ⚙️ Backend & Tools
+### 🌐 Frontend & Backend
 <p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=github-actions"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🔎 Retriever — Full-Stack Lost-and-Found System
+> **React 19 • FastAPI • WebSockets • MongoDB • Redis • Gemini Vision API**
+
+- Architected a **FastAPI/React** platform with **WebSockets**, supporting **1K+ users** with **<50ms** chat latency
+- Integrated **Gemini Vision** for **95%+** accurate item tagging and **React-Leaflet** for precise 5-meter geospatial tracking
+
+🔗 Repository: [github.com/Myself-Praveen/Retriver](https://github.com/Myself-Praveen/Retriver)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🌐 Live Demo: [retriver-iota.vercel.app](https://retriver-iota.vercel.app/)
+
+---
+
 ### 🤖 CodeSage — AI-Powered Code Analysis Assistant
-> **LLM + RAG powered intelligent coding assistant**
+> **Python • LangChain • Ollama • FAISS • RAG Architecture**
 
-- Built a CLI-based AI assistant to analyze, explain, and optimize source code  
-- Implemented Retrieval-Augmented Generation (RAG) using LangChain + Ollama  
-- Reduced manual debugging & review time by ~30% across 50+ code files  
+- Built an AI-powered CLI assistant using **Ollama local LLMs** for code refactoring, saving **10+ hours/week**
+- Engineered a **LangChain/FAISS RAG** pipeline indexing **50+** core files, accelerating debugging by **30%**
 
-🔗 Repository:  
-https://github.com/Myself-Praveen/Code_Sage  
-
----
-
-### 📰 Fake News Detection — NLP & ML
-> **End-to-end NLP text classification pipeline**
-
-- Engineered TF-IDF features for structured text representation  
-- Trained Logistic Regression & Naive Bayes classifiers  
-- Focused on preprocessing, evaluation metrics, and model generalization  
-
-🔗 Repository:  
-https://github.com/Myself-Praveen/Fake_news_detection  
+🔗 Repository: [github.com/Myself-Praveen/Code_Sage](https://github.com/Myself-Praveen/Code_Sage)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🎥 Demo Video: [YouTube](https://www.youtube.com/watch?v=VU2RdymCOhA)
 
 ---
 
-### 🧭 TrackBack — Scalable Backend System
-> **Production-style modular backend architecture**
+### 💻 AI-Powered Terminal Portfolio
+> **React.js • Node.js • Vercel Serverless • Google Gemini API**
 
-- Designed RESTful APIs with structured routing & middleware  
-- Built scalable backend components following clean architecture principles  
-- Emphasized maintainability, version control, and collaborative workflows  
+- Developed an interactive **React.js** UNIX terminal with **5+** bash commands, boosting engagement by **40%**
+- Integrated **Google Gemini LLM** via secure **Vercel Serverless** proxies, mitigating prompt injection by **100%**
 
-🔗 Repository:  
-https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back   
+🔗 Repository: [github.com/Myself-Praveen/Portfolio](https://github.com/Myself-Praveen/Portfolio)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🌐 Live Demo: [praveen7928.vercel.app](https://praveen7928.vercel.app)
 
 ---
 
@@ -124,15 +137,19 @@ https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back
 ---
 
 ## 🏆 Achievements
-- ⭐ **Codeforces Pupil**
-- ⭐ **CodeChef Rating 1440 (Div-3)**
-- 🎓 **NPTEL Generative AI — Elite Silver (Top 5%)**
+- ⭐ [**CodeChef**](https://www.codechef.com/users/itz_praveen) Rating: **1525** (Rank **414** in Starters 225)
+- ⭐ [**Codeforces**](https://codeforces.com/profile/Itz_praveen) Rating: **1265** (Pupil)
+- ⭐ [**LeetCode**](https://leetcode.com/u/itz_praveen/) Rating: **~1700**
+- 🎓 [**NPTEL Generative AI**](https://drive.google.com/file/d/1h_r5VoYmn8_rPzZu8lOeccUlNnnPrA1i/view?usp=sharing) — **Elite Silver (Top 5% nationwide)**
+- 🏅 **JEE Mains**: **98.2 percentile** (Top 2% among 1.6M candidates)
+- 🏆 Placed **6th out of 50+ teams** in DATATHON 2.0 (DataWorks Club)
+- 🌟 **Google Campus Ambassador** at IIITDM Kurnool — onboarded **100+** students
 
 ---
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/praveen-mishra-947085313/">
+  <a href="https://www.linkedin.com/in/itz-praveen-mishra/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:praveen104685@gmail.com">
@@ -140,6 +157,9 @@ https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back
   </a>
   <a href="https://github.com/Myself-Praveen">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://praveen7928.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -157,9 +177,9 @@ https://github.com/Google-Developers-Group-IIITDMK/DevelopersArch-track_back
 ---
 
 <p align="center">
-  <i>“Strong fundamentals. Consistent learning. Real-world impact.”</i>
+  <i>"Strong fundamentals. Consistent learning. Real-world impact."</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=500&lines=Thanks+for+visiting!;Always+learning+%26+building;Open+to+ML+Internships+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=550&lines=Thanks+for+visiting!;Always+learning+%26+building;Open+to+SWE+%26+ML+Internships+🚀"/>
 </p>
