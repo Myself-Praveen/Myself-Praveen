@@ -4,12 +4,8 @@
   <img alt="Myself-Praveen's GitHub profile" src="dark_mode.svg" />
 </picture>
 
----
 
-<!-- Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Praveen%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</div>
+---
 
 <!-- Typing Intro -->
 <p align="center">
@@ -19,6 +15,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Myself-Praveen&label=Profile%20Views&style=flat-square&color=667eea"/>
 </p>
+
 
 ---
 
