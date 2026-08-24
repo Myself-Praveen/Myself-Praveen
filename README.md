@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Myself-Praveen's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+---
+
 <!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Praveen%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
